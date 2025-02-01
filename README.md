@@ -6,3 +6,4 @@
 2 - How to load the data from SQL server incrementally into ADLSv2 storage account/Data Lake
 3 - How to pull data from Data Lake into databricks using unity catalog and perform various transformations
 4 - Dimension Modelling - How to create fact and dimension tables.
+5 - How to build end to end pipelines using ADf and also databricks workflows
